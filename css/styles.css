@@ -70,3 +70,29 @@ table {
   margin-left: auto;
   margin-right: auto;
 }
+
+#menu-back {
+  background-color: white;
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.prices {
+  font-weight: bold;
+}
+
+#menu-back {
+  background-color: white;
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.contact {
+  text-align: center;
+}
