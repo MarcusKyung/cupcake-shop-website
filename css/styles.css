@@ -84,7 +84,7 @@ table {
   font-weight: bold;
 }
 
-#menu-back {
+.menu-back {
   background-color: white;
   text-align: center;
   margin-right: 15%;
@@ -95,4 +95,15 @@ table {
 
 .contact {
   text-align: center;
+  background-color: white;
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.fancy {
+  font-style: italic;
+  color: #C1012D;
 }
