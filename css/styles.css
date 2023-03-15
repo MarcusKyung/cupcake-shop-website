@@ -147,3 +147,10 @@ table {
 .subhead {
   font-size: 30px;
 }
+
+.contact-form {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
