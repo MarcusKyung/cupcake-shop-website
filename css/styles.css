@@ -10,6 +10,8 @@ body {
   overflow: hidden;
   font-style: italic;
   font-weight: bold;
+  border-radius: 25px;
+  padding: 10px;
 }
 
 .topnav a {
@@ -19,6 +21,8 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 100%;
+  border-radius: 25px;
+  padding: 10px;
 }
 
 .topnav a:hover {
