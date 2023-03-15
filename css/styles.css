@@ -36,7 +36,7 @@ body {
 }
 
 /* Flexbox CSS */
-.box {
+/* .box {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,7 +44,16 @@ body {
 
 .box img {
   width: 800;
+} */
+
+/* Inline element to block configuration for about us pdx skyline image */
+.box img {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
+
 
 .topnav {
   display: flex;
