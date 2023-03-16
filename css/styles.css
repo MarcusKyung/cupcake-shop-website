@@ -54,7 +54,6 @@ body {
   display: block;
 }
 
-
 .topnav {
   display: flex;
   align-items: center;
@@ -127,7 +126,6 @@ table {
 .contact {
   text-align: center;
   background-color: white;
-  text-align: center;
   margin-right: 15%;
   margin-left: 15%;
   border-radius: 25px;
